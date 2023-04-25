@@ -5,6 +5,7 @@ speakers:
 categories:
   - Talk (8min)
 ---
+
 Authors: Kelsey McCulloch, Ian Mills, Ian Overton
 
 Personalised medical research is uncovering new challenges, such as incompatibilities of traditional statistical analyses due to lack of replicate samples, difficulties gleaning meaningful insights from genetic data with high levels of noise, and pressures to extract the maximum value from patient data.
