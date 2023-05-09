@@ -2,20 +2,31 @@
 layout: location
 ---
 
-VIBE 2023 will take place in the [Isdell Courtyard](https://www.qub.ac.uk/events-at-queens/venues/isdell-courtyard/) at [Riddel Hall, Belfast](https://goo.gl/maps/qEe3r3Ugrjo8TMwx7).
+VIBE 2023 will take place in the Isdell Courtyard at [Riddel Hall, Belfast](https://goo.gl/maps/qEe3r3Ugrjo8TMwx7).
 
-Please note parking at the venue cannot be guaranteed, so attendees are encouraged to use public transport or ride share where possible.
-
-*Riddel Hall, 185 Stranmillis Road, Belfast, Northern Ireland, BT9 5EE*
+**Riddel Hall, 185 Stranmillis Road, Belfast, Northern Ireland, BT9 5EE**
 
 WhatThreeWords Location: [fault.punchy.orange](https://what3words.com/fault.punchy.orange)
 
+Please note parking at the venue cannot be guaranteed, so attendees are encouraged to use public transport or ride share where possible.
 
-## Recommended Public Transport Route:
-* The nearest train station is Great Victoria Street.
-* Take 8a/8b/8c/8d Metro bus from Great Northern Mall to Ridgeway Street.
+## Train Route from Dublin:
+* The train from Dublin terminates at Lanyon Place Station.
+* The nearest bus stop is Donegall Square East, adjacent to Belfast City Hall.
+* Take 8a/8b/8c/8d Metro bus from Donegall Square East to Ridgeway Street.
 * Continue on foot along Stranmillis Rd downhill until reaching the Riddel Hall gates.
 
+## Bus Route from Dublin:
+* The buses from Dublin terminate at Europa Buscentre.
+* The nearest bus stop is Great Northern Mall, opposite Europa hotel.
+* Take 8a/8b/8c/8d Metro bus from Donegall Square East to Ridgeway Street.
+* Continue on foot along Stranmillis Rd downhill until reaching the Riddel Hall gates.
+
+## Taxi Pick-Up Points:
+* Lanyon Place Station for attendees travelling to Belfast by train.
+* Europa Hotel for attendees travelling to Belfast by bus.
+* Taxis are extremely limited, so pre-booking is strongly recommended.
+* Taxis to Riddel Hall cost approximately £10.
 
 ## Transport Links:
 * [Bus](https://www.translink.co.uk/)
