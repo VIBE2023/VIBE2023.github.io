@@ -79,10 +79,13 @@ conference:
         disabled: true
       #- name: Talks
       #  relative_url: /talks/
-      #- name: Speakers
-      #  relative_url: /speakers/
       - name: Location
         relative_url: /location/
+      - name: Attendees
+      relative_url: /speakers/
+      - name: Info
+        relative_url: /info/
+        disabled: true
       #- name: Register
       #  #relative_url: /register/
       #  absolute_url: 'https://docs.google.com/forms/d/e/1FAIpQLSeDlADcAg67SqH-oKPWU1LCDTU1WiNBEPfftLJnPFGz-oc_Ew/viewform?usp=sf_link'
