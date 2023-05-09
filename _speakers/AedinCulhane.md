@@ -1,6 +1,6 @@
 ---
-name: Aedin Culhane
-first_name: Aedin
+name: Aedín Culhane
+first_name: Aedín
 last_name: Culhane
 
 ---
