@@ -8,7 +8,7 @@ VIBE 2023 will take place in the Isdell Courtyard at [Riddel Hall, Belfast](http
 
 WhatThreeWords Location: [fault.punchy.orange](https://what3words.com/fault.punchy.orange)
 
-Please note parking at the venue cannot be guaranteed, so attendees are encouraged to use public transport or ride share where possible.
+Please note parking at the venue is not available, so attendees are encouraged to use public transport or ride share where possible.
 
 ## Train Route from Dublin:
 * The train from Dublin terminates at Lanyon Place Station.
