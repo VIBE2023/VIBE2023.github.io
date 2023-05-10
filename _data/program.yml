@@ -11,23 +11,23 @@ days:
       - name: "Introduction / Overview of Day"
         time_start: '10:00'
         time_end: '10:10'
-      - name: "Single Cell ‘Omics – Data Analysis Tips and Challenges"
-        time_start: '10:10'
-        time_end: '10:50'
       - name: "Data Preparation and Integrative Cohort Discovery with AI for Precision Oncology"
-        time_start: '10:55'
-        time_end: '11:05'
+        time_start: '10:10'
+        time_end: '10:20'
       - name: "An approach to design benchmark datasets for pathogen detection in metagenomic data"
-        time_start: '11:05'
-        time_end: '11:15'
+        time_start: '10:20'
+        time_end: '10:30'
       - name: "Multiple myeloma: single cell-level characterization of natural killer cells show disease specific pathways driving immune exhaustion"
-        time_start: '11:15'
-        time_end: '11:25'
+        time_start: '10:30'
+        time_end: '10:40'
       - name: "Good Models or Good Riddance? An investigation into the suitability of cell lines as models of ovarian cancer histotypes"
-        time_start: '11:25'
-        time_end: '11:35'
+        time_start: '10:40'
+        time_end: '10:50'
       - name: "Lightning Talks 1"
-        time_start: '11:35'
+        time_start: '10:50'
+        time_end: '11:05'
+      - name: "Aedín Culhane Keynote"
+        time_start: '11:05'
         time_end: '11:50'
       - name: "Tea & Coffee with Poster Viewing"
         time_start: '11:50'
