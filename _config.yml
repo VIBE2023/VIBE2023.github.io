@@ -76,11 +76,11 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-        disabled: true
+        disabled: false
       #- name: Talks
       #  relative_url: /talks/
-      #- name: Speakers
-      #  relative_url: /speakers/
+      - name: Attendees
+        relative_url: /speakers/
       - name: Location
         relative_url: /location/
       #- name: Register
@@ -121,7 +121,7 @@ conference:
      color: primary
      main_only: true
      text: |
-       Registration is now closed. If you would like to be added to the waitlist, please message vibe2023@qub.ac.uk. The conference program will shortly be made available.
+       Registration is now closed. The conference program is now available and we look forward to seeing you all on Friday.
   # Live indications
 #  live:
 #    date: 09.06.2022

@@ -19,6 +19,4 @@ VIBE 2023 will have four sessions:
 
 There will be two keynote talks (Aedín Culhane and Evangelia Petsalaki), ten minute talks, one minute "lightning" talks, and a poster presentation session. There will also be tea/coffee breaks and lunch provided.
 
-The full conference program will be made available in due course.
-
 Conference Organising Committee: *Emmet Campbell, Chris Creevey, Lucy Dillon, Guillermo Lopez Campos, Kelsey McCulloch, Caroline Meharg, Victor Olorunshola, Ian Overton, Tom Toner, John-Paul Wilkins*
