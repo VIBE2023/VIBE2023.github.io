@@ -117,11 +117,11 @@ conference:
 
 # Information boxes
   info_bars:
-   - title: Program now available
+   - title: Thank you all for attending VIBE 2023!
      color: primary
      main_only: true
      text: |
-       We look forward to seeing you all on Friday.
+       We are looking forward to seeing you all in Galway in 2024!
   # Live indications
 #  live:
 #    date: 09.06.2022
